@@ -45,11 +45,13 @@
 .locations:hover .popover 
 {
 	display: inline-block;
+	opacity: 90%;
 }
 
 .amenities:hover .popover 
 {
 	display: inline-block;
+	opacity: 90%;
 }
 
 ul 
