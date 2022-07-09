@@ -1,11 +1,13 @@
-header{
+header
+{
 	background-color: white;
 	height: 70px;
 	width: 100%;
 	border-bottom: 1px solid #CCCCCC;
 }
 
-#logo_head{
+#logo_head
+{
 	height: 100%;
 	width: 142px;
 	background-image: url("../images/logo.png");
